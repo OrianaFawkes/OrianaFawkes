@@ -1,4 +1,4 @@
-###### *As you peruse the dictionary, a fresh log entry catches your eye, compelling you to take a closer look. The words within seem to change every so often; sporadic insights and revelations will enrich this entry over time.*
+###### *As you peruse the dictionary, a fresh log entry catches your eye, compelling you to take a closer look. The words within seem to change every so often.*
 
 ---
 
@@ -10,7 +10,9 @@ PN. / Pseud.
 1. A recent graduate currently looking for a job.
 2. An advocate for automated solutions, especially when it comes to maximizing nap time.
 3. A self-driven technology enthusiast and developer.
- 
+
+###### *Ori is a pet project of mine.*
+
 ---
 
 Hey there Nappers! 👋 I’m Ori, a sleepy pink fox. I’m usually asleep, otherwise I’m either learning something new or developing something new. Coffee makes me sleepy, but I enjoy it nonetheless.
