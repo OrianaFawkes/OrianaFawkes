@@ -7,7 +7,7 @@
 ###### /ɒriˈɑːnə ˈfɔːks/
  
 PN. / Pseud.
-1. A recent graduate currently looking for a job.
+1. ~~A recent graduate currently looking for a job.~~ 
 2. An advocate for automated solutions, especially when it comes to maximizing nap time.
 3. A self-driven technology enthusiast and developer.
 
